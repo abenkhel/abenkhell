@@ -3,8 +3,8 @@
 <h3 align="center">Researcher in public health</h3>
 
 🔭 I’m currently working on the Health and Activity of Pupils in the Primary Years [(HAPPY) study](https://www.imperial.ac.uk/school-public-health/primary-care-and-public-health/research/child-health-unit/the-happy-study/) at the Imperial Faculty of Medicine <br/>
-🔎 Past work on researching facial emotion recognition in affective disorders, navigating in virtual reality for at-risk Alzheimer’s patients, and wrangling fMRI, EEG, and large datasets using MATLAB, R, and SPM.
-🎓 BSc in Psychology, MSc in Cognitive Neuroscience 🧠<br/>
+🔎 Past work on researching facial emotion recognition in affective disorders, navigating in virtual reality for at-risk Alzheimer’s patients, and wrangling fMRI, EEG, and large datasets using MATLAB, R, and SPM.<br/>
+🎓 BSc in Psychology (Carthy Prize, 2023), MSc in Cognitive Neuroscience 🧠<br/>
 🌱 I’m currently learning advanced statistical modelling in R and analysing healthcare data<br/>
 📫 Reach me on email: abenkhel@ic.ac.uk<br/>
 
